@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\bin\Debug\net6.0\Voting_App.exe
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\bin\Debug\net6.0\Voting_App.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\bin\Debug\net6.0\Voting_App.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\bin\Debug\net6.0\Voting_App.dll
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\bin\Debug\net6.0\Voting_App.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.dll
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\refint\Voting_App.dll
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\Voting_App.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_Zor_Seviyeler\Voting_App\obj\Debug\net6.0\ref\Voting_App.dll
